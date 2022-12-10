@@ -1,0 +1,19 @@
+{
+  "name": "solanajs",
+  "version": "1.0.2",
+  "description": "Solana DApps Using React",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": "git+https://github.com/mustafaaljadery/solanajs.git",
+  "keywords": [
+    "solana"
+  ],
+  "author": "Mustafa Aljadery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mustafaaljadery/solanajs/issues"
+  },
+  "homepage": "https://github.com/mustafaaljadery/solanajs#readme"
+}
